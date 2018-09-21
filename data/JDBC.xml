@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<bean  id="driverClassName" class="com.mysql.jdbc.Driver"></bean>
+<bean  id="url" class="jdbc:mysql://localhost:3306/echat"></bean>
+<bean  id="username" class="root"></bean>
+<bean  id="password" class=""></bean>
+</beans>
